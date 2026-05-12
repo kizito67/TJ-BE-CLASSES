@@ -1,0 +1,13 @@
+{
+  "_id": {
+    "$oid": "6a034ac1c61324592be44feb"
+  },
+  "fullName": "Fatima Yusuf",
+  "email": "fatima.yusuf@gmail.com",
+  "phoneNumber": "+2347034567890",
+  "skillCategory": "Tailoring",
+  "gender": "Female",
+  "address": "15 Market Street, Kano",
+  "isVerified": false,
+  "__v": 0
+}
